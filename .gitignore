@@ -1,6 +1,7 @@
 venv
 dist
 .idea
+build
 *.egg-info
 
 */__pycache__/*
