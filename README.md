@@ -2,7 +2,7 @@
 
 [![PyPi Badge](https://img.shields.io/pypi/v/ccm-java8)](https://pypi.org/project/ccm-java8/)
 
-_ccm-java8_ is a [CCM](https://github.com/riptano/ccm/) extension that explicitly sets the `JAVA_HOME` environment variable for all CCM-managed
+_ccm-java8_ is a [Cassandra Cluster Manager](https://github.com/riptano/ccm) (CCM) extension that explicitly sets the `JAVA_HOME` environment variable for all CCM-managed
 Cassandra nodes (and related tools) to an available Java 8 installation, which is required to run Cassandra 3.11 and lower.
 
 Platforms Currently Supported:
